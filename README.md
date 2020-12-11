@@ -6,6 +6,6 @@ Replace the style.scss =================> To style.min.css
 
 If your browser don't compile the scss sass file
 
-With love [Geoffrey](https://linkedin.com/in/a-geoffrey-logovi-8021901b8)
+With love [Geoffrey On Linkedin](https://linkedin.com/in/geoffreylgv)
 
 All documentation [Sass Doc Here](https://sass-lang.com/documentation)
